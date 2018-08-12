@@ -10,3 +10,4 @@ This will also use an example of global variabls from the log.groovy
 definitions
 
 test
+2
